@@ -1,5 +1,7 @@
 # SAMBA
 
+<img width="567" height="210" alt="samba_logo_light" src="https://github.com/user-attachments/assets/56a50891-09c4-4614-8984-16927d424a3b" />
+
 ## Documentation
 SAMBA (SAM2 for Behavioural Analysis) is a user-friendly analysis pipeline for annotating locomotion for model organisms, particualrly Drosophila melanogaster larvae.
 
