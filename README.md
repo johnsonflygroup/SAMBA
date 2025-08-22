@@ -2,7 +2,7 @@
 
 ## 1.1 Overview
 
-The colab notebook 'SAMBA - SAM2 Behavioural Analysis.ipynb' link: https://colab.research.google.com/drive/1n05Hxsw4RREBY34t_g3Hj0txsaof8pNh?usp=sharing
+The colab notebook 'SAMBA - SAM2 Behavioural Analysis.ipynb' [link: https://colab.research.google.com/drive/1n05Hxsw4RREBY34t_g3Hj0txsaof8pNh?usp=sharing](https://colab.research.google.com/drive/1n05Hxsw4RREBY34t_g3Hj0txsaof8pNh?usp=sharing)
 
 The notebook and input videos should be saved in Google Drive, and the output will also be written to Google Drive.
 
