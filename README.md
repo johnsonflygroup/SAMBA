@@ -2,14 +2,19 @@
 
 <img width="567" height="210" alt="samba_logo_light" src="https://github.com/user-attachments/assets/56a50891-09c4-4614-8984-16927d424a3b" />
 
-SAMBA (SAM2 for Behavioural Analysis) is a user-friendly analysis pipeline for annotating locomotion for model organisms, particualrly Drosophila melanogaster larvae.
+SAMBA (**SAM**2 for **B**ehavioural **A**nalysis) is a user-friendly analysis pipeline for analysing locomotion patterns in model organisms, particualrly *Drosophila melanogaster* larvae.
 
-The colab notebook 'SAMBA - SAM2 Behavioural Analysis.ipynb' is available at [link: https://colab.research.google.com/drive/1n05Hxsw4RREBY34t_g3Hj0txsaof8pNh?usp=sharing](https://colab.research.google.com/drive/1n05Hxsw4RREBY34t_g3Hj0txsaof8pNh?usp=sharing)
+[Click Here](https://github.com/johnsonflygroup/SAMBA/blob/main/SAMBA_SAM2_Behavioural_Analysis.ipynb) to open SAMBA in Google Colab.
 
-To use, save a copy of SAMBA to a Google Drive account. Input videos must be uploaded to Google Drive and the output will also be written to Google Drive.
+### Getting started
+Save a copy of SAMBA to a Google Drive account. Upload video files (.mp4, .mov, .avi, .mkv) to be analysed to the same Google Drive account. The analysis output data will also be written to Google Drive.
+
+### Detailed instructions with screenshots
+A full description is available (link) (soon)
 
 ### Sample video
+A short 10s sample video ('sample_video') is included in this repository to test run SAMBA for yourself.
 
-A short sample video is available 'sample_video'. This can be used with SAMBA
+Where to put it: After step 2.2 Set Main Directory is run for the first time, upload this video to the 'data' folder at your specified directory in Google Drive.
 
 
