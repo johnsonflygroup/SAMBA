@@ -12,9 +12,9 @@ Save a copy of SAMBA to a Google Drive account. Upload video files (.mp4, .mov, 
 ### Detailed instructions with screenshots
 A full description is available (link) (soon)
 
-### Sample video
-A short 10s sample video ('sample_video') is included in this repository to test run SAMBA for yourself.
+### Sample videos
+Short 10s sample videos (in 'sample_video' folder) are included in this repository to test run SAMBA for yourself.
 
-Where to put it: After step 2.2 Set Main Directory is run for the first time, upload this video to the 'data' folder at your specified directory in Google Drive.
+Where to put them: After step 2.2 Set Main Directory is run for the first time, upload videos to the 'data' folder at your specified directory in Google Drive.
 
 
