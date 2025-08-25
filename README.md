@@ -4,7 +4,7 @@
 
 SAMBA (**SAM**2 for **B**ehavioural **A**nalysis) is a user-friendly analysis pipeline for analysing locomotion patterns in model organisms, particualrly *Drosophila melanogaster* larvae.
 
-[Click Here](https://github.com/johnsonflygroup/SAMBA/blob/main/SAMBA_SAM2_Behavioural_Analysis.ipynb) to open SAMBA in Google Colab.
+[Click Here](https://github.com/johnsonflygroup/SAMBA/blob/main/SAMBA_SAM2_Behavioural_Analysis.ipynb)) to open SAMBA in Google Colab.
 
 ### Getting started
 Save a copy of SAMBA to a Google Drive account. Upload video files (.mp4, .mov, .avi, .mkv) to be analysed to the same Google Drive account. The analysis output data will also be written to Google Drive.
