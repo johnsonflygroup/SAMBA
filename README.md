@@ -9,10 +9,7 @@ SAMBA (**SAM**2 for **B**ehavioural **A**nalysis) is a user-friendly analysis pi
 [Click Here](https://colab.research.google.com/github/johnsonflygroup/SAMBA/blob/main/SAMBA_SAM2_Behavioural_Analysis.ipynb) to open SAMBA in Google Colab.
 
 ### Getting started
-Save a copy of SAMBA to a Google Drive account. Upload video files (.mp4, .mov, .avi, .mkv) to be analysed to the same Google Drive account. The analysis output data will also be written to Google Drive.
-
-### Detailed instructions with screenshots
-A full description is available (link) (soon)
+Save a copy of SAMBA to a Google Drive account. Upload video files (.mp4, .mov, .avi, .mkv) to be analysed to the same Google Drive account. Folder directories will be generated automatically during the set-up process. The analysis output data will also be written to Google Drive.
 
 ### Sample videos
 Short 10s sample videos (in the [sample_video](https://github.com/johnsonflygroup/SAMBA/tree/main/sample_videos) folder) are included in this repository to test run SAMBA for yourself.
